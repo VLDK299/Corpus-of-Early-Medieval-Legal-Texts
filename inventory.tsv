@@ -1,0 +1,89 @@
+corpus	file	doc_id	doc_id_ascii	title	source_marker	start_line	end_line	status	notes
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAbt	LawAbt	Æthelberht	===== T09220 | LawAbt =====	18	135	done	Древнейший памятник; включает пролог
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawHl	LawHl	Hlothære and Eadric	===== T09230 | LawHl =====	156	178	done	Совместный кодекс Хлотхере и Эдрика
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawWiProl	LawWiProl	Wihtræd (Prologue)	===== T09240 | LawWiProl =====	199	203	done	Пролог к законам Вихтреда; отдельный doc_id
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawWi	LawWi	Wihtræd	===== T09250 | LawWi =====	224	252	done	Основной текст законов Вихтреда
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAfRb	LawAfRb	Alfred-Ine (Headings to Alfred)	===== T09260 | LawAfRb =====	273	315	done	Рубрики/дополнения к законам Альфреда; отдельный doc_id
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIneRb	LawIneRb	Alfred-Ine (Headings to Ine)	===== T09270 | LawIneRb =====	336	412	done	Рубрики к законам Инэ; сохранились в составе рукописи Альфреда, но по дате создания — Горизонт II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAfEl	LawAfEl	Alfred-Ine (Introduction to Alfred)	===== T09280 | LawAfEl =====	433	529	done	Введение к законам Альфреда (Mosaic Prologue); отдельный doc_id
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAf_1	LawAf_1	Alfred-Ine (Alfred)	===== T09290 | LawAf 1 =====	550	716	done	Основной кодекс Альфреда; пролог вынесен в LawAfEl (отдельный doc_id), поэтому has_prologue=no
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIne	LawIne	Alfred-Ine (Ine)	===== T09300 | LawIne =====	737	863	done	Законы Инэ с прологом
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAGu	LawAGu	Alfred and Guthrum	===== T09310 | LawAGu =====	884	893	done	Договор Альфреда и Гутрума
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawEGuProl	LawEGuProl	Edward and Guthrum (Prologue)	===== T09320 | LawEGuProl =====	914	919	done	Пролог к законам Эдуарда и Гутрума; атрибуция спорна: считается подделкой Вульфстана ок. 1000 г.; дата 900–925 условна
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawEGu	LawEGu	Edward and Guthrum	===== T09330 | LawEGu =====	940	968	done	Основной текст законов Эдуарда и Гутрума
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIEw	LawIEw	I Edward	===== T09340 | LawIEw =====	989	1000	done	Законы Эдуарда Старшего
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIEw	LawIIEw	II Edward	===== T09350 | LawIIEw =====	1021	1037	done	Второй кодекс Эдуарда Старшего
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIAs	LawIAs	I Æthelstan	===== T09360 | LawIAs =====	1058	1074	done	Законы Этельстана
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAsAlm	LawAsAlm	Æthelstan Almsgiving	===== T09370 | LawAsAlm =====	1095	1100	done	Постановление Этельстана о милостыне
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIAs	LawIIAs	II Æthelstan	===== T09380 | LawIIAs =====	1121	1277	done	Второй кодекс Этельстана (с прологом)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVAsProl	LawVAsProl	V Æthelstan (Prologue)	===== T09390 | LawVAsProl =====	1298	1306	done	Пролог к пятому кодексу Этельстана; отдельный doc_id
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVAs	LawVAs	V Æthelstan	===== T09400 | LawVAs =====	1327	1337	done	Пятый кодекс Этельстана
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIVAs	LawIVAs	IV Æthelstan, 6	===== T09410 | LawIVAs =====	1358	1362	done	Четвертый кодекс Этельстана
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVIAs	LawVIAs	VI Æthelstan	===== T09420 | LawVIAs =====	1383	1454	done	Шестой кодекс Этельстана
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIEm	LawIEm	I Eadmund	===== T09430 | LawIEm =====	1475	1485	done	Первый кодекс Эдмунда
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIEmProl	LawIIEmProl	II Eadmund (Prologue)	===== T09440 | LawIIEmProl =====	1506	1508	done	Пролог ко второму кодексу Эдмунда; отдельный doc_id
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIEm	LawIIEm	II Eadmund	===== T09450 | LawIIEm =====	1529	1544	done	Второй кодекс Эдмунда
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawHu	LawHu	Hundredgemot	===== T09460 | LawHu =====	1565	1581	done	Постановление о сотенном собрании (Hundredgemot)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIEg	LawIIEg	II Eadgar	===== T09470 | LawIIEg =====	1602	1616	done	Второй кодекс Эдгара
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIIEg	LawIIIEg	III Eadgar	===== T09480 | LawIIIEg =====	1637	1656	done	Третий кодекс Эдгара
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIVEg	LawIVEg	IV Eadgar	===== T09490 | LawIVEg =====	1677	1716	done	Четвертый кодекс Эдгара
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawPromRegis	LawPromRegis	Promissio Regis	===== T09500 | LawPromRegis =====	1740	1744	done	Королевское обещание (Promissio Regis)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIAtr	LawIAtr	I Æthelred	===== T09510 | LawIAtr =====	1765	1790	done	Первый кодекс Этельреда II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIAtr	LawIIAtr	II Æthelred	===== T09520 | LawIIAtr =====	1811	1852	done	Второй кодекс Этельреда II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIIIAtr	LawIIIAtr	III Æthelred	===== T09530 | LawIIIAtr =====	1873	1908	done	Третий кодекс Этельреда II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVAtr	LawVAtr	V Æthelred	===== T09540 | LawVAtr =====	1929	1989	done	Пятый кодекс Этельреда II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVAtr_(D)	LawVAtr_D	V Æthelred	===== T09550 | LawVAtr (D) =====	2010	2014	done	Фрагмент/дополнение к пятому кодексу Этельреда II; doc_id содержит скобки, неудобные для файловых путей, ASCII-алиас — LawVAtr_D
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVIAtr	LawVIAtr	VI Æthelred	===== T09560 | LawVIAtr =====	2035	2125	done	Шестой кодекс Этельреда II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVIIaAtr	LawVIIaAtr	VIIa Æthelred	===== T09570 | LawVIIaAtr =====	2146	2166	done	Седьмой кодекс Этельреда II (фрагмент)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawVIIIAtr	LawVIIIAtr	VIII Æthelred	===== T09580 | LawVIIIAtr =====	2187	2247	done	Восьмой кодекс Этельреда II
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIXAtr	LawIXAtr	IX Æthelred	===== T09590 | LawIXAtr =====	2268	2271	done	Девятый кодекс Этельреда II (фрагмент)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawXAtrProl	LawXAtrProl	X Æthelred (Prologue)	===== T09600 | LawXAtrProl =====	2292	2296	done	Пролог к десятому кодексу Этельреда II; отдельный doc_id
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawXAtr	LawXAtr	X Æthelred	===== T09610 | LawXAtr =====	2317	2319	done	Десятый кодекс Этельреда II (фрагмент)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawCn_1020	LawCn_1020	Cnut, 1020	===== T09620 | LawCn 1020 =====	2340	2359	done	Кодекс Кнута 1020 г. (Винчестерский)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawICn	LawICn	I Cnut	===== T09630 | LawICn =====	2380	2474	done	Первый кодекс Кнута
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIICn	LawIICn	II Cnut	===== T09640 | LawIICn =====	2495	2721	done	Второй кодекс Кнута;
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawDuns	LawDuns	Dunsæte	===== T09650 | LawDuns =====	2742	2772	done	Постановление для Дунсэте (Dunsæte)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawNorthu	LawNorthu	Norðhymbra preosta lagu	===== T09660 | LawNorthu =====	2793	2881	done	Нортумбрийские церковные законы (Norðhymbra preosta lagu)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawOrdal	LawOrdal	Ordal	===== T09670 | LawOrdal =====	2902	2921	done	Постановление об ордалиях
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawBlas	LawBlas	Blaseras	===== T09680 | LawBlas =====	2942	2947	done	О бласферах (Blaseras)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawForfH	LawForfH	Forfang (Rochester, Cathedral, Textus Roffensis)	===== T09690 | LawForfH =====	2968	2969	done	О штрафе за укрывательство (Forfang), версия H (Rochester)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawForfB	LawForfB	Forfang (Cambridge, Corpus Christi College, MS. 383)	===== T09700 | LawForfB =====	2990	2996	done	О штрафе за укрывательство (Forfang), версия B (Cambridge, CCCC 383)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawPax	LawPax	Pax	===== T09710 | LawPax =====	3017	3017	done	О королевском мире (Pax); фрагмент
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawWal	LawWal	Walreaf	===== T09720 | LawWal =====	3038	3038	done	О валлийском праве (Walreaf); фрагмент, 15 токенов — минимальный объём в корпусе
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawWer	LawWer	Wer	===== T09730 | LawWer =====	3059	3068	done	О вергельде (Wer)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawSwer	LawSwer	Swerian	===== T09740 | LawSwer =====	3089	3105	done	Формулы присяг (Swerian)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawBecwæð	LawBecwaeth	Hit becwæð	===== T09750 | LawBecwæð =====	3126	3134	done	Завещательное распоряжение (Hit becwæð); doc_id содержит не-ASCII символы, ASCII-алиас — LawBecwaeth
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIudDei_VI	LawIudDei_VI	Judicia Dei VI	===== T09760 | LawIudDei VI =====	3155	3161	done	Божий суд VI (Judicia Dei)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIudDei_VII	LawIudDei_VII	Judicia Dei VII	===== T09770 | LawIudDei VII =====	3182	3200	done	Божий суд VII
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIudDei_VIII	LawIudDei_VIII	Judicia Dei VIII	===== T09780 | LawIudDei VIII =====	3221	3230	done	Божий суд VIII
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawExcom_VII	LawExcom_VII	Excommunicatio VII	===== T09790 | LawExcom VII =====	3251	3274	done	Отлучение VII (Excommunicatio)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawWif	LawWif	Wifmannes beweddung	===== T09800 | LawWif =====	3295	3304	done	О брачном договоре (Wifmannes beweddung)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawRect	LawRect	Rectitudines	===== T09810 | LawRect =====	3325	3388	done	О правах и обязанностях (Rectitudines); genre_macro=administrative
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawGer	LawGer	Gerefa	===== T09820 | LawGer =====	3409	3435	done	Об обязанностях управляющего (Gerefa); genre_macro=administrative
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawGeþyncðo	LawGethyncdo	Geþyncðo	===== T09830 | LawGeþyncðo =====	3456	3462	done	О статусе (Geþyncðo); genre_macro=administrative; doc_id содержит не-ASCII символы, ASCII-алиас — LawGethyncdo
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawNorðleod	LawNorthleod	Norðleoda	===== T09840 | LawNorðleod =====	3483	3497	done	Законы северных народов (Norðleoda laga); doc_id содержит не-ASCII символы, ASCII-алиас — LawNorthleod
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawMirce	LawMirce	Mircna laga	===== T09850 | LawMirce =====	3518	3524	done	Законы Мерсии (Mircna laga)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawAð	LawAth	Að	===== T09860 | LawAð =====	3545	3548	done	О присяге (Að); doc_id содержит не-ASCII символы, ASCII-алиас — LawAth
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawHad	LawHad	Hadbot	===== T09870 | LawHad =====	3569	3583	done	О церковном статусе (Hadbot)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawGrið	LawGrith	Grið	===== T09880 | LawGrið =====	3604	3645	done	О мире (Grið); doc_id содержит не-ASCII символы, ASCII-алиас — LawGrith
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawNorgrið	LawNorgrith	Norðhymbra cyricgrið	===== T09890 | LawNorgrið =====	3666	3675	done	Нортумбрийский церковный мир (Norðhymbra cyricgrið); doc_id содержит не-ASCII символы, ASCII-алиас — LawNorgrith
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawRomscot	LawRomscot	Romscot	===== T09900 | LawRomscot =====	3696	3697	done	О римском гроше (Romscot)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawIudex	LawIudex	Judex	===== T09910 | LawIudex =====	3718	3739	done	О судье (Judex)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawEpisc	LawEpisc	Episcopus	===== T09920 | LawEpisc =====	3760	3775	done	О епископе (Episcopus)
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawF	LawF	Ymb æbricas	===== T09930 | LawF =====	3796	3797	done	Фрагмент о нарушении закона (Ymb æbricas); издание Flower 1937, 62 'The Text of the Burghal Hidage'; edition_type=critical
+anglo_saxon	anglo_saxon_laws_DOE_2000.txt	LawWlLad	LawWlLad	William I, Lad	===== T09940 | LawWlLad =====	3817	3829	done	Законы Вильгельма I (Lad)
+continental	CapSax.txt	CapSax	CapSax	Capitulare Saxonicum	CAPITULARE SAXONICUM	N/A	N/A	done	797; 11 глав + App. II 34, 35 и III 65, 66; MGH Capitularia I (№ 26); num_structural_units=15, unit_type=chapter
+continental	CapPartSax.txt	CapPartSax	CapPartSax	Capitulatio de partibus Saxoniae	CAPITULATIO DE PARTIBUS SAXONIAE	N/A	N/A	done	ок. 782–785; 34 главы; MGH Capitularia I (№ 26); unit_type=chapter
+continental	CodEur.txt	CodEur	CodEur	Codicis Euriciani leges ex lege Baiuvariorum restitutae	CODICIS EURICIANI LEGES EX LEGE BAIUVARIORUM RESTITUTAE	N/A	N/A	done	475–476; 15 фрагментов; реконструкция из Lex Baiuvariorum (не «Парижские фрагменты»); genre_sub=fragment; unit_type=fragment
+continental	EdTheod.txt	EdTheod	EdTheod	Edictum Theoderici Regis	EDICTUM THEODERICI REGIS	N/A	N/A	done	ок. 500–512; 154 главы + prologus + epilogus; MGH LL V (Bluhme 1889); edition_type=critical; unit_type=chapter; has_prologue=yes, has_epilogue=yes
+continental	LegSax.txt	LegSax	LegSax	Leges Saxonum	INCIPIT LIBER LEGIS SAXONUM	N/A	N/A	done	785–802; 66 статей; издание определено — Schwerin 1918 (MGH Fontes iuris IV); num_structural_units=66; unit_type=chapter; edition_type=critical
+continental	LexCham.txt	LexCham	LexCham	Lex Francorum Chamavorum	NOTTIA VEL COMMEMORATIO DE ILLA EUUA	N/A	N/A	done	66 статей; издание — Schwerin 1918 (MGH Fontes iuris IV); num_structural_units=66; unit_type=chapter; edition_type=critical
+continental	LexRib.txt	LexRib	LexRib	Lex Ribuariorum	INCIPIT LEX RIBUARIORUM	N/A	N/A	done	ок. 600–630; 91 титул; Sohm 1883 (MGH LL V); edition_type=critical; unit_type=title
+continental	LexSal.txt	LexSal	LexSal	Lex Salica	I. De mannire	N/A	N/A	done	507–511; Prologus I–II + Pactus + Capitularia I–VII + Epilogus I–II; издание — Грацианский 1950 (edition_type=translation); unit_type=article; has_prologue=yes, has_epilogue=yes
+continental	LexAlam.txt	LexAlam	LexAlam	Lex Alamannorum	INCIPIT LEX ALAMANNORUM	N/A	N/A	done	ок. 712–730; 94 титула + 10 доп. законов; Данилова 1969 (edition_type=translation); крит. изд. Eckhardt 1966 (MGH LL nat. Germ. V.1); unit_type=title
+continental	LexBaj.txt	LexBaj	LexBaj	Lex Baiuvariorum	HOC DECRETUM APUD REGEM	N/A	N/A	done	741–743; 22 титула + доп. законы + капитулярии; Данилова 1969 (edition_type=translation); крит. изд. Schwind 1926 (MGH LL nat. Germ. V.2); unit_type=title
+continental	LexFris.txt	LexFris	LexFris	Lex Frisionum	INCIPIT LEX FRISIONUM	N/A	N/A	done	ок. 785–803; 22 титула + эпилог + 11 доп. титулов; издание — Nieuwenhuijsen (keesn.nl), edition_type=digital; в основе — крит. изд. Richthofen 1875 / Eckhardt 1982 (MGH Fontes iuris XII); unit_type=title; has_epilogue=yes
+continental	LexThur.txt	LexThur	LexThur	Lex Thuringorum	INCIPIT LEX ANGLORUM ET WERINORUM	N/A	N/A	done	802–803; ок. 62 главы; Руссов 1824 (edition_type=translation); крит. изд. Richthofen 1875 / Schwerin 1918 (MGH Fontes iuris IV); unit_type=chapter
+continental	EdRoth.txt	EdRoth	EdRoth	Edictum Rothari	INCIPIT EDICTVM QVEM RENOVAVIT DOMNVS ROTHARI	N/A	N/A	done	643; 388 глав + prologus + epilogus; Bluhme 1868 (MGH LL IV); edition_type=critical; unit_type=chapter; греч. фрагм. Lingenthal 1835; has_prologue=yes, has_epilogue=yes
+continental	LexRomBur.txt	LexRomBur	LexRomBur	Lex Romana Burgundionum	Titulus I de patris vel matris donatione	N/A	N/A	done	ок. 517–520; Salis 1892 (MGH LL); edition_type=critical
+continental	LexVis.txt	LexVis	LexVis	Lex Visigothorum	LIBER PRIMUS	N/A	N/A	done	654; 593 статьи; компиляция по Аурову и Марей 2012 (edition_type=compilation); крит. изд. Zeumer 1902 (MGH LL nat. Germ. I); unit_type=article; вес ~38% всего корпуса, ~47% континентального — при агрегации учитывать отдельно

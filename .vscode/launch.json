@@ -1,0 +1,131 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "1. Конкорданс: wergeld (все варианты)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "wergeld", "-i", "-w", "5"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "2. Конкорданс: wergeld (континент)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "wergeld", "-i", "-w", "7", "-s", "continental"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "3. Конкорданс: wergeld (остров)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "wergeld", "-i", "-w", "7", "-s", "insular"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "4. Конкорданс: murdrum / morth",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "murdrum", "-i", "-w", "5"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "5. Конкорданс: si quis (континент)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["si quis", "-i", "-s", "continental", "-n", "50"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "6. Конкорданс: gif / gyf",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "gif", "-i", "-w", "5", "-n", "100"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "7. Конкорданс: cyning / king",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "cyning", "-i", "-w", "5"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "8. Конкорданс: mid / mit",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "mid", "-i", "-w", "5", "-n", "50"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "9. Конкорданс: forgieldan",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/concordance.py",
+            "args": ["-V", "forgieldan", "-i", "-w", "5"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "10. Коллокации: wergeld (всё)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/collocations.py",
+            "args": ["-V", "wergeld", "-i", "-w", "5", "--min-ll", "3.84", "--top", "30"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "11. Коллокации: murdrum",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/collocations.py",
+            "args": ["-V", "murdrum", "-i", "-w", "5", "--min-ll", "3.84"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "12. Коллокации: cyning (остров)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/collocations.py",
+            "args": ["-V", "cyning", "-i", "-s", "insular", "-w", "5", "--min-ll", "3.84", "--top", "30"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "13. Коллокации: componere (континент)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/collocations.py",
+            "args": ["-V", "componere", "-i", "-s", "continental", "-w", "5", "--min-ll", "3.84"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "14. Коллокации: solvere (континент)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/collocations.py",
+            "args": ["-V", "solvere", "-i", "-s", "continental", "-w", "5", "--min-ll", "3.84"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
